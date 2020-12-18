@@ -1,2 +1,0 @@
-# canari
-canari.dev Website
